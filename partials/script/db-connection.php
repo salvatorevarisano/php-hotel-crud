@@ -16,7 +16,7 @@
      $db_password,
      $db_name,
  );
- var_dump($conn);
+ //var_dump($conn);
  
  //check
  if( $conn && $conn->connect_error ) {
